@@ -1,2 +1,0 @@
-# Search
-THMIGU Searching
